@@ -1,0 +1,6 @@
+@Powermax.API_HostAddress = http://localhost:5048
+
+GET {{Powermax.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
